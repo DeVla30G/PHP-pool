@@ -1,0 +1,5 @@
+PDOException: could not find driver in /home/vladi/ORIGIN/PHP-pool/Day9/ex4/connect_db.php:7
+Stack trace:
+#0 /home/vladi/ORIGIN/PHP-pool/Day9/ex4/connect_db.php(7): PDO->__construct()
+#1 /home/vladi/ORIGIN/PHP-pool/Day9/ex4/test.php(8): connect_db()
+#2 {main}
